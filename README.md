@@ -1,4 +1,4 @@
-# django
+# Upload Images
 
 # Create and activate virtual environment 
 py -m venv myproject
